@@ -28,7 +28,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 
 | Day | Date | Problem Statement | Status | Link |
 |-----|------|-------------------|--------|------|
-| 1 | Date | Problem Statement | Status | [Link](./Day-1/) |
+| 1 | 22-07-2023 | Print, Input and variable | Complete | [Link](./Day-1/) |
 | 2 | Date | Problem Statement | Status | [Link](#) |
 | 3 | Date | Problem Statement | Status | [Link](#) |
 | . | .    | .                 | .      | .    |
