@@ -11,16 +11,16 @@ Bitwise operators: &, |, ~, <<, >>, ^
 """
 # Arithmetic operators: 
 
-# x = 6
-# y = 2
+x = 6
+y = 2
 
-# print(x + y)
-# print(x - y)
-# print(x * y)
-# print(x / y)
-# print(x % y)
-# print(x ** y)
-# print(x // y)
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
+print(x ** y)
+print(x // y)
 
 # Assignment operators:
 

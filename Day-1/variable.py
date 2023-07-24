@@ -35,10 +35,10 @@ myAge = 24
 myCGPA = 3.4
 
 # Variable with input
-# Name = input("What is your name?\n: ")
-# print("My name is" + Name)
-# Age = input("How old are you?\n: ")
-# print("I am " + Age + " years old")
+Name = input("What is your name?\n: ")
+print("My name is" + Name)
+Age = input("How old are you?\n: ")
+print("I am " + Age + " years old")
 
 # Many Values to Multiple Variables
 

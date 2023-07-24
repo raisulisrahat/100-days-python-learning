@@ -1,7 +1,7 @@
 # Here I am showing python datatypes.
 
 """
-String: "Hellow World"
+String: "Hello World"
 Integer: 15, 0, -5
 Float: 1.45
 Bool: True, False

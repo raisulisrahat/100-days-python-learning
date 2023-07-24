@@ -29,8 +29,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | Day | Date | Problem Statement | Status | Link |
 |-----|------|-------------------|--------|------|
 | 1 | 22-07-2023 | Print, Input and variable | Complete | [Link](./Day-1/) |
-| 2 | 23-07-2023 | Data types, Operators | Complete | [Link](./Day-2/) |
-| 3 | Date | Problem Statement | Status | [Link](#) |
+| 2 | 23-07-2023 | Data types and Operators | Complete | [Link](./Day-2/) |
+| 3 | 24-07-2023 | String and Condition | Complete | [Link](./Day-3/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
@@ -66,4 +66,4 @@ While this repository is primarily for my personal use, any and all suggestions 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
