@@ -7,5 +7,5 @@ print(fruitsset)   # printing fruitsset
 print(len(fruitsset))  # Counting item set length 
 
 # Add iteam
-fruitsset.add("Stoberry")
+fruitsset.add("Stoberry")   # Add new fruits
 print(fruitsset)

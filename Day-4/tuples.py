@@ -7,6 +7,6 @@ print(fruitstuples)   # printing fruitstuples
 print(len(fruitstuples))  # Counting item Tuples length 
 
 # Update iteam
-fruit = ("Stoberry",)
+fruit = ("Stoberry",)   # Add new fruits
 fruitstuples += fruit
 print(fruitstuples)

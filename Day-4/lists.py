@@ -18,3 +18,7 @@ print(fruitsList[:5])   # collect list item 0 to 4 and item 5 not included
 print(fruitsList[3:5])  # collect list item 3 to 4 and item 5 not included
 print(fruitsList[-4:-1])    # items from index -4 (included) to index -1 (excluded)
 
+# Add iteam
+fruitsList.append("Stoberry")   # Add new fruits
+print(fruitsList)
+
