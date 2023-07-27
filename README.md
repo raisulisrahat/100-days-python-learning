@@ -32,7 +32,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 2 | 23-07-2023 | Data types and Operators | Complete | [Link](./Day-2/) |
 | 3 | 24-07-2023 | String and Condition | Complete | [Link](./Day-3/) |
 | 4 | 25-07-2023 | Lists, Sets and Tuples | Complete | [Link](./Day-4/) |
-| 5 | 26-07-2023 | loops | Complete | [Link](./Day-5/) |
+| 5 | 26-07-2023 | Loops | Complete | [Link](./Day-5/) |
+| 6 | 27-07-2023 | Function, Lambdas | Complete | [Link](./Day-6/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
