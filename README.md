@@ -33,7 +33,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 3 | 24-07-2023 | String and Condition | Complete | [Link](./Day-3/) |
 | 4 | 25-07-2023 | Lists, Sets and Tuples | Complete | [Link](./Day-4/) |
 | 5 | 26-07-2023 | Loops | Complete | [Link](./Day-5/) |
-| 6 | 27-07-2023 | Function, Lambdas | Complete | [Link](./Day-6/) |
+| 6 | 27-07-2023 | Function and Lambdas | Complete | [Link](./Day-6/) |
+| 6 | 28-07-2023 | Class/Object and Arrays | Complete | [Link](./Day-7/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
