@@ -34,7 +34,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 4 | 25-07-2023 | Lists, Sets and Tuples | Complete | [Link](./Day-4/) |
 | 5 | 26-07-2023 | Loops | Complete | [Link](./Day-5/) |
 | 6 | 27-07-2023 | Function and Lambdas | Complete | [Link](./Day-6/) |
-| 6 | 28-07-2023 | Class/Object and Arrays | Complete | [Link](./Day-7/) |
+| 7 | 28-07-2023 | Class/Object and Arrays | Complete | [Link](./Day-7/) |
+| 8 | 29-07-2023 | Scope and Sorting | Complete | [Link](./Day-8/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
