@@ -36,7 +36,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 6 | 27-07-2023 | Function and Lambdas | Complete | [Link](./Day-6/) |
 | 7 | 28-07-2023 | Class/Object and Arrays | Complete | [Link](./Day-7/) |
 | 8 | 29-07-2023 | Scope and Sorting | Complete | [Link](./Day-8/) |
-| 9 | 30-07-2023 | Scope and Sorting | Complete | [Link](./Day-9/) |
+| 9 | 30-07-2023 | Practising Day 1 to Day 4 | Complete | [Link](./Day-9/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
