@@ -38,7 +38,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 8 | 29-07-2023 | Scope and Sorting | Complete | [Link](./Day-8/) |
 | 9 | 30-07-2023 | Practising Day 1 to Day 4 | Complete | [Link](./Day-9/) |
 | 10 | 31-07-2023 | Practising Day 5 to Day 8 | Complete | [Link](./Day-10/) |
-| 11 | 01-08-2023 | Modules and Python Package(pip) | Complete | [Link](./Day-10/) |
+| 11 | 01-08-2023 | Modules and Python Package(pip) | Complete | [Link](./Day-11/) |
+| 12 | 02-08-2023 | Inheritance | Complete | [Link](./Day-12/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
