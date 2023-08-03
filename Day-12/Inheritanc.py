@@ -1,4 +1,4 @@
-# Here I am showing  Inheritance and Polymorphism in python
+# Here I am showing  Inheritance in python
 
 class telephone:        # Parent Class
     def call(self):
