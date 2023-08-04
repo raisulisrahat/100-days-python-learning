@@ -40,7 +40,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 10 | 31-07-2023 | Practising Day 5 to Day 8 | Complete | [Link](./Day-10/) |
 | 11 | 01-08-2023 | Modules and Python Package(pip) | Complete | [Link](./Day-11/) |
 | 12 | 02-08-2023 | Inheritance | Complete | [Link](./Day-12/) |
-| 12 | 03-08-2023 | Polymorphism | Complete | [Link](./Day-13/) |
+| 13 | 03-08-2023 | Polymorphism | Complete | [Link](./Day-13/) |
+| 14 | 04-08-2023 | Iterator | Complete | [Link](./Day-14/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
