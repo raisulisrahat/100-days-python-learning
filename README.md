@@ -44,6 +44,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 14 | 04-08-2023 | Iterator | Complete | [Link](./Day-14/) |
 | 15 | 05-08-2023 | File Handling(Read, Write and Delete file) | Complete | [Link](./Day-15/) |
 | 16 | 06-08-2023 | Constructor and Encapsulation | Complete | [Link](./Day-16/) |
+| 17 | 07-08-2023 | Exception Handling | Complete | [Link](./Day-17/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
