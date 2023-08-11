@@ -45,7 +45,10 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 15 | 05-08-2023 | File Handling(Read, Write and Delete file) | Complete | [Link](./Day-15/) |
 | 16 | 06-08-2023 | Constructor and Encapsulation | Complete | [Link](./Day-16/) |
 | 17 | 07-08-2023 | Exception Handling | Complete | [Link](./Day-17/) |
-| 18 | 07-08-2023 | Practising Day 12 to Day 14 | Complete | [Link](./Day-18/) |
+| 18 | 08-08-2023 | Practising Day 12 to Day 14 | Complete | [Link](./Day-18/) |
+| 19 | 09-08-2023 | Practising Day 15 to Day 17 | Complete | [Link](./Day-19/) |
+| 20 | 10-08-2023 | Practising Day 1 to Day 17 | Complete | [Link](./Day-20/) |
+| 21 | 11-08-2023 | DateTime Moudle | Complete | [Link](./Day-21/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
