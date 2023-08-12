@@ -49,6 +49,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 19 | 09-08-2023 | Practising Day 15 to Day 17 | Complete | [Link](./Day-19/) |
 | 20 | 10-08-2023 | Practising Day 1 to Day 17 | Complete | [Link](./Day-20/) |
 | 21 | 11-08-2023 | DateTime Moudle | Complete | [Link](./Day-21/) |
+| 22 | 12-08-2023 | Math Moudle | Complete | [Link](./Day-22/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
