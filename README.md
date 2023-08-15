@@ -50,6 +50,9 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 20 | 10-08-2023 | Practising Day 1 to Day 17 | Complete | [Link](./Day-20/) |
 | 21 | 11-08-2023 | DateTime Moudle | Complete | [Link](./Day-21/) |
 | 22 | 12-08-2023 | Math Moudle | Complete | [Link](./Day-22/) |
+| 23 | 13-08-2023 | Json Moudle | Complete | [Link](./Day-23/) |
+| 24 | 14-08-2023 | RegEx Moudle | Complete | [Link](./Day-24/) |
+| 25 | 15-08-2023 | Random Moudle | Complete | [Link](./Day-25/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
