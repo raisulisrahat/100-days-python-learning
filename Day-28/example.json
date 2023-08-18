@@ -1,0 +1,20 @@
+{
+    "myName": "Risul Islam",
+    "myLastName": "Rahat",
+    "hobbies": ["Anime", "Traveling", "Programming"],
+    "age": 24,
+    "languages": [
+        {
+            "name": "HTML, CSS",
+            "years": 3        },
+        {
+            "name": "Python",
+            "years": 2          },
+	{
+	    "name": "PowerShell",
+	    "years": 1          },
+	{
+	    "name": "Bash Script",
+	    "years": 1          }
+     ]
+}
