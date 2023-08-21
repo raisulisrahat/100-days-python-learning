@@ -58,6 +58,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 28 | 18-08-2023 | Practising Day 23 | Complete | [Link](./Day-28/) |
 | 29 | 19-08-2023 | Practising Day 24 | Complete | [Link](./Day-29/) |
 | 30 | 20-08-2023 | Practising Day 25 | Complete | [Link](./Day-30/) |
+| 31 | 21-08-2023 | Project Day 21 to Day 25 | Complete | [Link](./Day-31/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
