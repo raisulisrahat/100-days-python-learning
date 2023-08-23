@@ -59,7 +59,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 29 | 19-08-2023 | Practising Day 24 | Complete | [Link](./Day-29/) |
 | 30 | 20-08-2023 | Practising Day 25 | Complete | [Link](./Day-30/) |
 | 31 | 21-08-2023 | Project Day 21 to Day 25 | Complete | [Link](./Day-31/) |
-| 31 | 22-08-2023 | GUI modules | Complete | [Link](./Day-32/) |
+| 32 | 22-08-2023 | GUI modules Part 1 | Complete | [Link](./Day-32/) |
+| 32 | 23-08-2023 | GUI modules Part 2 | Complete | [Link](./Day-33/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
