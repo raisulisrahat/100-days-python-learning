@@ -64,6 +64,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 34 | 24-08-2023 | GUI modules Part 3 | Complete | [Link](./Day-34/) |
 | 34 | 24-08-2023 | GUI modules Part 3 | Complete | [Link](./Day-34/) |
 | 35 | 25-08-2023 | Turtle modules | Complete | [Link](./Day-35/) |
+| 36 | 26-08-2023 | sys modules | Complete | [Link](./Day-36/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
