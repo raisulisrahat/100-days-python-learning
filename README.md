@@ -69,6 +69,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 39 | 29-08-2023 | Practising Day 35 | Complete | [Link](./Day-39/) |
 | 40 | 30-08-2023 | Practising Day 37 | Complete | [Link](./Day-40/) |
 | 41 | 31-08-2023 | PyYaml modules | Complete | [Link](./Day-41/) |
+| 42 | 1-09-2023 | logging modules | Complete | [Link](./Day-41/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
