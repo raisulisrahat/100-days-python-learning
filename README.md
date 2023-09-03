@@ -71,6 +71,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 41 | 31-08-2023 | PyYaml modules | Complete | [Link](./Day-41/) |
 | 42 | 1-09-2023 | logging modules | Complete | [Link](./Day-42/) |
 | 43 | 2-09-2023 | OS modules | Complete | [Link](./Day-43/) |
+| 44 | 3-09-2023 | Smtplib modules | Complete | [Link](./Day-44/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
