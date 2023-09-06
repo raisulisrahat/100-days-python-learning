@@ -74,6 +74,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 44 | 03-09-2023 | Smtplib modules | Complete | [Link](./Day-44/) |
 | 45 | 04-09-2023 | Argparse modules | Complete | [Link](./Day-45/) |
 | 46 | 05-09-2023 | Practising Day 41 | Complete | [Link](./Day-46/) |
+| 47 | 06-09-2023 | Practising Day 42 | Complete | [Link](./Day-47/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
