@@ -75,6 +75,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 45 | 04-09-2023 | Argparse modules | Complete | [Link](./Day-45/) |
 | 46 | 05-09-2023 | Practising Day 41 | Complete | [Link](./Day-46/) |
 | 47 | 06-09-2023 | Practising Day 42 | Complete | [Link](./Day-47/) |
+| 48 | 06-09-2023 | Practising Day 43 | Complete | [Link](./Day-48/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
