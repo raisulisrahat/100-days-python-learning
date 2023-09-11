@@ -79,6 +79,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 49 | 08-09-2023 | Practising Day 44 | Complete | [Link](./Day-49/) |
 | 50 | 09-09-2023 | Practising Day 45 | Complete | [Link](./Day-50/) |
 | 51 | 10-09-2023 | NumPy Day 1 | Complete | [Link](./Day-51/) |
+| 52 | 11-09-2023 | NumPy Day 2 | Complete | [Link](./Day-52/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
