@@ -85,6 +85,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 55 | 14-09-2023 | NumPy Day 5 | Complete | [Link](./Day-55/) |
 | 56 | 15-09-2023 | NumPy Day 6 | Complete | [Link](./Day-56/) |
 | 57 | 16-09-2023 | NumPy Day 7 | Complete | [Link](./Day-57/) |
+| 58 | 17-09-2023 | NumPy Day 8 | Complete | [Link](./Day-58/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
