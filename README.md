@@ -88,6 +88,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 58 | 17-09-2023 | NumPy Day 8 | Complete | [Link](./Day-58/) |
 | 59 | 18-09-2023 | NumPy Day 9 | Complete | [Link](./Day-59/) |
 | 60 | 19-09-2023 | NumPy Day 10 | Complete | [Link](./Day-60/) |
+| 61 | 20-09-2023 | Pandas Day 1 | Complete | [Link](./Day-61/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
