@@ -93,6 +93,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 63 | 22-09-2023 | Pandas Day 3 | Complete | [Link](./Day-63/) |
 | 64 | 23-09-2023 | Pandas Day 4 | Complete | [Link](./Day-64/) |
 | 65 | 24-09-2023 | Pandas Day 5 | Complete | [Link](./Day-65/) |
+| 66 | 25-09-2023 | Pandas Day 6 | Complete | [Link](./Day-66/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
