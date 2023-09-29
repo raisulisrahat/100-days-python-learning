@@ -97,6 +97,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 67 | 26-09-2023 | Pandas Day 6 | Complete | [Link](./Day-67/) |
 | 68 | 27-09-2023 | Practising Pandas & Numpy Day 1 | Complete | [Link](./Day-68/) |
 | 69 | 28-09-2023 | Practising Pandas & Numpy Day 2 | Complete | [Link](./Day-69/) |
+| 70 | 29-09-2023 | Practising Random String Pandas & Numpy Day 3 | Complete | [Link](./Day-69/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
