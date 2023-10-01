@@ -98,7 +98,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 68 | 27-09-2023 | Practising Pandas & Numpy Day 1 | Complete | [Link](./Day-68/) |
 | 69 | 28-09-2023 | Practising Pandas & Numpy Day 2 | Complete | [Link](./Day-69/) |
 | 70 | 29-09-2023 | Practising Random String Pandas & Numpy Day 3 | Complete | [Link](./Day-70/) |
-| 71 | 30-09-2023 | Matplotlib Day 1 | Complete | [Link](./Day-51/) |
+| 71 | 30-09-2023 | Matplotlib Day 1 | Complete | [Link](./Day-71/) |
+| 72 | 01-10-2023 | Matplotlib Day 2 | Complete | [Link](./Day-72/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
