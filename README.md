@@ -100,6 +100,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 70 | 29-09-2023 | Practising Random String Pandas & Numpy Day 3 | Complete | [Link](./Day-70/) |
 | 71 | 30-09-2023 | Matplotlib Day 1 | Complete | [Link](./Day-71/) |
 | 72 | 01-10-2023 | Matplotlib Day 2 | Complete | [Link](./Day-72/) |
+| 73 | 02-10-2023 | Matplotlib Day 3 | Complete | [Link](./Day-73/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
