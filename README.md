@@ -101,6 +101,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 71 | 30-09-2023 | Matplotlib Day 1 | Complete | [Link](./Day-71/) |
 | 72 | 01-10-2023 | Matplotlib Day 2 | Complete | [Link](./Day-72/) |
 | 73 | 02-10-2023 | Matplotlib Day 3 | Complete | [Link](./Day-73/) |
+| 74 | 03-10-2023 | Matplotlib Day 4 | Complete | [Link](./Day-74/) |
+| 75 | 04-10-2023 | Matplotlib Day 5 | Complete | [Link](./Day-75/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
