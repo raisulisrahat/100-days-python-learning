@@ -32,7 +32,7 @@ def analyze_log_and_alert():
 def send_alert(error_message):
     sender_email = "risulislam089@gmail.com"
     receiver_email = "bulletsblack4@gmail.com"
-    password = "BlackBullets_C47"
+    password = "---"
 
     subject = "Critical Error Alert"
     body = f"Critical error detected: {error_message}"
