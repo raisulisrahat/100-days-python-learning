@@ -1,0 +1,3 @@
+2023-10-15 10:20:30 [INFO] This is an info message
+2023-10-15 10:25:45 [ERROR] Error occurred: Something went wrong
+2023-10-15 10:30:15 [DEBUG] Debug message
