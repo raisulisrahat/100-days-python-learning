@@ -110,6 +110,9 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 80 | 09-10-2023 | Matplotlib Day 10 | Complete | [Link](./Day-80/) |
 | 81 | 10-10-2023 | Problem Solving Day 1 | Complete | [Link](./Day-81/) |
 | 82 | 11-10-2023 | Problem Solving Day 2 | Complete | [Link](./Day-82/) |
+| 83 | 12-10-2023 | Problem Solving Day 3 | Complete | [Link](./Day-83/) |
+| 84 | 13-10-2023 | Problem Solving Day 4 | Complete | [Link](./Day-84/) |
+| 85 | 14-10-2023 | Problem Solving Day 5 | Complete | [Link](./Day-85/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
