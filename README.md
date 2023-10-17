@@ -115,6 +115,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 85 | 14-10-2023 | Problem Solving Day 5 | Complete | [Link](./Day-85/) |
 | 86 | 15-10-2023 | Problem Solving Day 6 | Complete | [Link](./Day-86/) |
 | 87 | 16-10-2023 | Problem Solving Day 7 | Complete | [Link](./Day-87/) |
+| 88 | 17-10-2023 | Problem Solving Day 8 | Complete | [Link](./Day-88/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
