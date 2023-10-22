@@ -118,6 +118,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 88 | 17-10-2023 | Problem Solving Day 8 | Complete | [Link](./Day-88/) |
 | 89 | 18-10-2023 | Problem Solving Day 9 | Complete | [Link](./Day-89/) |
 | 90 | 19-10-2023 | Problem Solving Day 10 | Complete | [Link](./Day-90/) |
+| 91 | 20-10-2023 | DevOps Project Day 1 | Complete | [Link](./Day-91/) |
+| 92 | 21-10-2023 | DevOps Project Day 2 | Complete | [Link](./Day-92/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
