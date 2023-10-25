@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Infrastructure Monitoring Dashboard</title>
+</head>
+<body>
+    <h1>Infrastructure Monitoring Dashboard</h1>
+    <table border="1">
+        <tr>
+            <th>Server</th>
+            <th>CPU Usage (%)</th>
+            <th>Memory Usage (%)</th>
+        </tr>
+        {% for server, metrics in data.items() %}
+            <tr>
+                <td>{{ server }}</td>
+                <td>{{ metrics['cpu_usage'] }}</td>
+                <td>{{ metrics['memory_usage'] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

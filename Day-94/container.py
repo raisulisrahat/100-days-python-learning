@@ -41,7 +41,7 @@ def start_containers():
         name=nginx_container_name,
         ports={"80/tcp": 80},
         volumes={
-            "/path/to/nginx/config": {"bind": "/etc/nginx/conf.d", "mode": "ro"}
+            "/server.conf": {"bind": "/etc/nginx/conf.d", "mode": "ro"}
         },
         links={wordpress_container_name: "wordpress"},
         detach=True,
