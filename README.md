@@ -125,6 +125,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 95 | 24-10-2023 | DevOps Project Day 5 | Complete | [Link](./Day-95/) |
 | 96 | 25-10-2023 | DevOps Project Day 6 | Complete | [Link](./Day-96/) |
 | 97 | 26-10-2023 | DevOps Project Day 7 | Complete | [Link](./Day-97/) |
+| 98 | 27-10-2023 | DevOps Project Day 8 | Complete | [Link](./Day-98/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 100 | Date | Problem Statement | Status | [Link](#) |
